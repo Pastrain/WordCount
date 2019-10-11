@@ -1,0 +1,5 @@
+﻿  main.cpp
+g:\cpppro\pairprogramming\pairprogramming\main.cpp(80): warning C4101: “ch”: 未引用的局部变量
+  test.cpp
+  正在生成代码...
+  PairProgramming.vcxproj -> G:\CPPPro\PairProgramming\Debug\PairProgramming.exe
