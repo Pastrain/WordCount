@@ -1,0 +1,7 @@
+﻿  fileIO.cpp
+  main.cpp
+  wordCount.cpp
+e:\1学习啊老哥\microsoft visual studio\myprojects\大三！！！！！\wordcount\wordcount\wordcount.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+e:\1学习啊老哥\microsoft visual studio\myprojects\大三！！！！！\wordcount\wordcount\wordcount.cpp(202): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  wordcount.vcxproj -> E:\1学习啊老哥\Microsoft Visual Studio\MyProjects\大三！！！！！\wordcount\Debug\wordcount.exe
